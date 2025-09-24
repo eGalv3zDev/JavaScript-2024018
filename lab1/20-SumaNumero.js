@@ -7,5 +7,5 @@ function sumarElementosArreglo(arreglo) {
 }
 
 const numeros = [1, 2, 3, 4, 5]
-const resultado = sumarElementosArreglo(numeros)
-console.log(resultado)
+const resultado1 = sumarElementosArreglo(numeros)
+console.log(resultado1)

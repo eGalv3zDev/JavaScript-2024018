@@ -5,9 +5,9 @@ function esMayorDeEdad(edad) {
 const edadUsuario = 18
 
 const edad = parseInt(edadUsuario);
-const resultado = esMayorDeEdad(edad);
+const resultado2 = esMayorDeEdad(edad);
 
-if (resultado) {
+if (resultado2) {
     console.log("Usted es mayor de edad");
 } else {
     console.log("Usted es menor de edad.");
